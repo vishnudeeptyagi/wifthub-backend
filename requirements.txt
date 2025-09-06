@@ -5,5 +5,5 @@ motor==3.5.3
 pymongo>=4.5,<5
 PyJWT==2.10.1
 python-multipart==0.0.9
-pydantic>=2.6.4
+pydantic[email]>=2.6.4
 gunicorn==23.0.0
